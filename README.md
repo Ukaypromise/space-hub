@@ -1,72 +1,46 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# SpaceX
 
-# Project Name
-
-> Description the project.
+> This project was built to display three main components: Rockets, Missions and Profile. The first component of this website takes the data from SpaceX API about the rockets it also features you with a reservation button in which you can reserve the rockets. The second component of this project shows a missions page which also takes the data from SpaceX API in order to show the missions and give details about them. Users are given the oppertunity to join these missions and be part of space history. The third part of this project is built to display a profile where the users can see which rockets they have reserved and which mission they have joined in.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- Javascript
+- React, Redux
+- Webpack, Babel, React Testing Library
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+To start with this project. You have to run npm install. When you want to build the project run npm build and to start the project and run it on a browser run npm start. 
 
 ### Prerequisites
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+You just need a good computer and a code editor. 
 
 ## Authors
 
-👤 **Author1**
+👤 ** Abdul Rahman Daudzai **
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@wadaudzai](https://github.com/wadaudzai)
+- Twitter: [@wadaudzai](https://twitter.com/wadaudzai)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/wadaudzai)
 
-👤 **Author2**
+👤 ** Promise Uka **
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Ukaypromise](https://github.com/Ukaypromise)
+- Twitter: [@PromiseUkay](https://twitter.com/PromiseUkay)
+- LinkedIn: [@promiseuka](https://www.linkedin.com/in/promiseuka/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/wadaudzai/math-magicians/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
